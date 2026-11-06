@@ -4,6 +4,8 @@ Script PyQGIS che, partendo da un reticolo idrografico vettoriale e da un DTM, c
 
 È lo script usato nel video di **QGIS in Azione** "Dal DTM al reticolo idrografico di un bacino, con QGIS", secondo episodio della mini serie sull'analisi di bacino, realizzata con [Gter](https://www.gter.it/formazione).
 
+Video: https://youtu.be/h-6DBZGXExQ
+
 ## Cosa ti serve
 
 - QGIS 3 (nel video: QGIS 3.44 LTR)
